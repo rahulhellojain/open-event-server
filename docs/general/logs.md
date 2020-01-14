@@ -31,7 +31,7 @@ ACTIVITIES = {
     'update_user': 'Profile of user {user} updated',
     'update_event': 'Event {event_id} updated',
     'create_event': 'Event {event_id} created',
-    'delete_event': 'Event {event_id} deleted',
+    'delete_event': 'Event  {event_id} deleted',
     'create_role': 'Role {role} created for user {user} in event {event_id}',
     'update_role': 'Role updated to {role} for user {user} in event {event_id}',
     'delete_role': 'User {user} removed from role {role} in event {event_id}',
